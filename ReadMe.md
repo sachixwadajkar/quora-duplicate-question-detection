@@ -102,11 +102,9 @@ Model evaluation performed using:
 
 ## Project Structure
 
-duplicate question detection system/
+quora-duplicate-question-detection/
 
 │── app.py
-
-│── model.pkl
 
 │── quora.ipynb
 
@@ -114,18 +112,17 @@ duplicate question detection system/
 
 │── requirements.txt
 
+│── .gitignore
+
 │
 
 └── images/
 
-├── confusion_matrix.png
+    ├── confusion_matrix.png
 
-├── feature_importance.png
+    ├── feature_importance.png
 
-└── streamlit_demo.png
-
----
-
+    └── streamlit_demo.png
 ## Run Locally
 
 Install dependencies:
