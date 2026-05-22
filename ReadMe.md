@@ -1,4 +1,18 @@
-# Quora Duplicate Question Detection System
+# quora-duplicate-question-detection/
+
+## Application Demo
+
+![Streamlit Demo](images/streamlit_demo.png)
+
+## Model Evaluation
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
 
 ## Project Overview
 
