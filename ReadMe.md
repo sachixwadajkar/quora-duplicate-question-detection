@@ -1,4 +1,4 @@
-# quora-duplicate-question-detection/
+# quora duplicate question detection
 
 ## Application Demo
 
