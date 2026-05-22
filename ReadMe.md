@@ -2,17 +2,17 @@
 
 ## Application Demo
 
-![Streamlit Demo](images/streamlit_demo.png)
+![Streamlit Demo](images/streamlit%20demo.png)
 
 ## Model Evaluation
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion%20matrix.png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature%20importance.png)
 
 ## Project Overview
 
